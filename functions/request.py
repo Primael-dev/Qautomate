@@ -1,6 +1,6 @@
 import requests
 
-
+#fonction de requete via url
 def request_API(url):
 
     try:
