@@ -59,5 +59,3 @@ Une fois l'installation terminée et l'environnement activé, lancez le script e
 python app.py 
 ``` 
 pour lancer le projet
-
-
